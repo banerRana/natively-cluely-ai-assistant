@@ -42,8 +42,8 @@ This demo shows **a complete live meeting scenario**:
 
 Download the latest prebuilt version from **[Releases](https://github.com/evinjohnn/natively-cluely-ai-assistant/releases)**.
 
-### [Windows (v1.1.4)](https://github.com/evinjohnn/natively-cluely-ai-assistant/releases/tag/v1.1.4)
-### [macOS (v1.1.4)](https://github.com/evinjohnn/natively-cluely-ai-assistant/releases/tag/v1.1.4)
+### [Windows (v1.1.2)](https://github.com/evinjohnn/natively-cluely-ai-assistant/releases/tag/v1.1.2)
+### [macOS (v1.1.3)](https://github.com/evinjohnn/natively-cluely-ai-assistant/releases/tag/v1.1.3)
 
 No build steps required.
 
